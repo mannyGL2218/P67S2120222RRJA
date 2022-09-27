@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P67S2120222RRJA</string>
+    <string name="txt_titulo1">Cargando</string>
+    <string name="txt_titulo2">Sumar</string>
+    <string name="txt_titulo3">MENU</string>
+    <string name="txt_num1">Primer valor</string>
+    <string name="txt_num2">Segundo valor</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="txt_resultado">Resultado</string>
+</resources>
